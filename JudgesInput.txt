@@ -4,7 +4,7 @@ bob02_Interview
 charlie03_Interview
 dylan04_Consultation_Monday_12:00_true
 emma05_Interview_Monday_12:30_false
-frank06_Consultation_Tuesday_3:00_fals
+frank06_Consultation_Tuesday_3:00_false
 george07_Consultation_Tuesday_5:00_true
 henry08_Interview_Tuesday_12:00_true
 ivan09_Interview
