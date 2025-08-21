@@ -4,7 +4,6 @@ charlie03: Interview on Monday at 1:00
 dylan04: Consultation on Monday at 1:30
 ivan09: Interview on Monday at 2:30
 joan10: Consultation on Monday at 3:00
-george07: Consultation on Tuesday at 12:00
-henry08: Interview on Tuesday at 1:00
-frank06: Consulation on Tuesday at 3:00
-klint11: Consultation on Wednesday at 12:00
+frank06: Consultation on Tuesday at 12:00
+george07: Consultation on Tuesday at 1:00
+henry08: Interview on Tuesday at 2:00
