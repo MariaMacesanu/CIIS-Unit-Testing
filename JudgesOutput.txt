@@ -1,12 +1,10 @@
-11
-abe01_Interview                              //end up scheduling at 12-12:30
-bob02_Interview                               //end up scheduling at 12-12:30
-charlie03_Interview                           //end up scheduling at 12:30-1
-dylan04_Consultation_Monday_12:00_true        //this will force you to reschedule, end up scheduling at 12:30-1:130
-emma05_Interview_Monday_12:30_false           //this will have to cancel
-frank06_Consultation_Tuesday_3:00_false      //this works fine
-george07_Consultation_Tuesday_5:00_true      //this is past closing time, will force to reschedule to Tuesday at 12;00
-henry08_Interview_Tuesday_12:00_true           //end up scheduling at 12:00
-ivan09_Interview                             //end up scheduling monday at 1-1:30
-joan10_Consultation_Monday_3:00               //schedule regularly
-klint11_Consultation_Wednesday_3:30_true         //needs to be rescheduled bc it would last longer than closing time, rescheduled to Wednesday at 12:00
+abe01: Interview on Monday at 12:00
+bob02: Interview on Monday at 12:00
+charlie03: Interview on Monday at 12:30
+dylan04: Consultation on Monday at 12:30
+ivan09: Interview on Monday at 1:00
+joan10: Consultaion on Monday at 3:00
+george07: Consultation on Tuesday at 12:00
+henry08: Interview on Tuesday at 12:00
+frank06: Consultation on Tuesday at 3:00
+klint11: Consultation on Wednesday at 12:00
