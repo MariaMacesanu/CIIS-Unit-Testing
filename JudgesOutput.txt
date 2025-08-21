@@ -1,10 +1,1 @@
-abe01: Interview on Monday at 12:00
-bob02: Interview on Monday at 12:00
-charlie03: Interview on Monday at 12:30
-dylan04: Consultation on Monday at 12:30
-ivan09: Interview on Monday at 1:00
-joan10: Consultaion on Monday at 3:00
-george07: Consultation on Tuesday at 12:00
-henry08: Interview on Tuesday at 12:00
-frank06: Consultation on Tuesday at 3:00
-klint11: Consultation on Wednesday at 12:00
+it needs to be changed
