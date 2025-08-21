@@ -11,6 +11,9 @@ public class Appointment
     {
         username = u;
         serviceType = t;
+        day = "Monday";
+        time = "12:00";
+        flexible = true;
     }
 
     public Appointment(String u, String ty, String d, String ti, boolean f)
