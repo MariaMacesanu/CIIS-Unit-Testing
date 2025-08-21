@@ -9,4 +9,3 @@ george07_Consultation_Tuesday_5:00_true
 henry08_Interview_Tuesday_12:00_true
 ivan09_Interview
 joan10_Consultation_Monday_3:00
-klint11_Consultation_Wednesday_3:30_true
